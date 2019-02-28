@@ -10,8 +10,6 @@
                                 }
 #endif
 
-#define TAPPING_TERM 200
-
 /*
  * MIDI options
  */
